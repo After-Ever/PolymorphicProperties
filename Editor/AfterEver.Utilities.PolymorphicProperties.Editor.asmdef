@@ -1,0 +1,18 @@
+{
+    "name": "AfterEver.Utilities.PolymorphicProperties.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e4762ea28b18ae44b977f56c634a3962"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

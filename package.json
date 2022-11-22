@@ -1,0 +1,8 @@
+{
+  "name": "com.nrvr.utilities.polymorphic-properties",
+  "displayName": "Polymorphic Properties",
+  "version": "0.1.0",
+  "unity": "2020.3",
+  "description": "A system for working with polymorphism within MonoBehaivour/ScriptableObject properties. \neg, if you want to have a property which could be one of many implementations, \nthis system allows working with that property in the editor: \na drop down with all the options is displayed, once selected, you see the fields for that \nspecific implementation.",
+  "type": "library"
+}
